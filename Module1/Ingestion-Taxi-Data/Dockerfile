@@ -10,4 +10,4 @@ WORKDIR /
 COPY . ./
 
 #container will run in python mode and immediatly run pipeline.py
-ENTRYPOINT [ "python", "ingest_data.py" ]
+ENTRYPOINT [ "python", "ingest_data_class_refactor.py" ]
