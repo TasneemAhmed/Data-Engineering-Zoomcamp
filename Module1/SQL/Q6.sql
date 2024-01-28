@@ -2,6 +2,8 @@
 Question 6. Largest tip
 For the passengers picked up in September 2019 in the zone name Astoria 
 which was the drop off zone that had the largest tip? We want the name of the zone
+
+Output: JFK Airport
 */
 
 select zdo."Zone", max(gt."tip_amount")
