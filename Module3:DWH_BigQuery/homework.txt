@@ -1,0 +1,6 @@
+creating Table link: https://console.cloud.google.com/bigquery?sq=154467561850:1db9534700a44dc4b37be3b262c42f06
+HW queries link: https://console.cloud.google.com/bigquery?sq=154467561850:0a6c0751754b42c08ea93887f7c5c924
+
+These links will direct to BigQuery, if doesn't work please revisit below to show queries needed for homework:
+create_tables.sql
+queries.txt
